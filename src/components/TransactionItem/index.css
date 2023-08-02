@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.table-row{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    border-right:1px solid #cbd5e1;
+    border-bottom: 1px solid #cbd5e1;
+    border-left: 1[x solid #cbd5e1;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+.tran-text{
+    color: #475569;
+    font-family: "Roboto";
+    font-size: 12px;
+    width: 30%;
+
+}
+.delete-con{
+    display: flex;
+    width: 10%;
+
+}
+.delete-btn{
+    background: transparent;
+    cursor: pointer;
+    border: none;
+    outline: none;
+
+}
+.delete-img{
+     background: transparent;
+    width: 20px;
+    height: 20px;
+    align-self: center;
+    border: none;
+    outline: none;
+
+
+}
